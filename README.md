@@ -17,9 +17,9 @@
 
 
 
-- 🔭 I'm currently working on migrating my web app project to TypeScript.
+- 🔭 I'm currently working as a full stack developer on Nocito Constructora, building the server side of applications with typescript, node, aws and postgresql.
 
-- 🌱 I'm currently learning TypeScript.
+- 🌱 I'm currently learning aws.
 
 - 🕵️‍♂️ I'm looking to collaborate on new projects that have a real impact.
 

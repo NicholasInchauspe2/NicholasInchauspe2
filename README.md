@@ -76,10 +76,9 @@
 
 <a href="[https://github.com/NicholasInchauspe2/github-readme-stats" style="margin-right:385px](https://github-readme-stats.vercel.app/api?username=nicholasInchauspe2&show_icons=true&theme=transparent)">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasInchauspe2&hide=contribs&show_icons=true&count_private=true&theme=radical"  style="width:390px"/>
-</a>
-<a href="https://github.com/NicholasInchauspe2">
   <img  align="right"  style="width:600px;height:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasInchauspe2&layout=pie" />
 </a>
+
 
 
 

@@ -73,11 +73,11 @@
 </div>
 
 
-<div style="display: flex; justify-content: center;">
-  <div>
+<div style="text-align: center;">
+  <div style="display: inline-block; margin: 10px;">
     <img style="width: 400px; height: 300px;" src="https://github-readme-stats.vercel.app/api?username=NicholasInchauspe2&hide=contribs&show_icons=true&count_private=true&theme=radical" />
   </div>
-  <div>
+  <div style="display: inline-block; margin: 10px;">
     <img style="width: 600px; height: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasInchauspe2&layout=pie" />
   </div>
 </div>

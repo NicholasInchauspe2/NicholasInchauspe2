@@ -75,8 +75,8 @@
 </div>
 
 <a align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasInchauspe2&hide=contribs&show_icons=true&count_private=true&theme=radical"  style="width:390px"/>
-  <img  align="right"  style="width:600px;height:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasInchauspe2&layout=pie" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicholasInchauspe2&hide=contribs&show_icons=true&count_private=true&theme=radical"  style="width:390px"/>
+  <img style="width:600px;height:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasInchauspe2&layout=pie" />
 </a>
 
 
